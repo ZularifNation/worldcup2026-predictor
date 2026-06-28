@@ -1,5 +1,3 @@
-🏆 README.md
-
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=World+Cup+2026+Predictor;Interactive+Tournament+Bracket;Arabic+%26+English+Support;Export+Predictions+as+PNG;Built+by+Ayham+Belal+Megdadi" alt="Typing SVG"/>
 </h1><p align="center">
